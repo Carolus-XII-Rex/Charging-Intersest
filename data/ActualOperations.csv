@@ -188,11 +188,11 @@ credit_id,c_date,c_oper_name,c_amount
 3,2021-03-05,Charging interest,1098.34711030484
 3,2021-03-05,Credit repayment,7337.93
 3,2021-03-31,Charging interest,5633.259021528055
-3,2021-04-05,Charging interest,1083.319699532249
+3,2021-04-05,Charging interest,1299.98
 3,2021-04-05,Credit repayment,6818.31
 3,2021-04-05,Credit repayment,3.46
 3,2021-04-30,Charging interest,5346.742441469358
-3,2021-05-05,Charging interest,1069.34911004532
+3,2021-05-05,Charging interest,855.47
 3,2021-05-05,Credit repayment,7090.58
 3,2021-05-31,Charging interest,5485.1020464232015
 3,2021-06-05,Charging interest,1054.8278201352111
@@ -213,11 +213,11 @@ credit_id,c_date,c_oper_name,c_amount
 3,2021-11-05,Charging interest,981.0535494996147
 3,2021-11-05,Credit repayment,7370.15
 3,2021-11-30,Charging interest,4829.797203977726
-3,2021-12-06,Charging interest,1345.36
+3,2021-12-06,Charging interest,1159.15
 3,2021-12-06,Overdue payment,7627.1
 3,2021-12-08,Charging interest (on debt),6.2482100511454455
 3,2021-12-08,Debt repayment,7627.1
-3,2021-12-31,Charging interest,4570.23
+3,2021-12-31,Charging interest,4751.7
 3,2022-01-05,Charging interest,950.3394481596764
 3,2022-01-05,Credit repayment,342.8
 3,2022-01-05,Credit repayment,7534.84
@@ -250,10 +250,10 @@ credit_id,c_date,c_oper_name,c_amount
 4,2021-04-15,Charging interest (on debt),45.143362119184324
 4,2021-04-30,Charging interest,621.5263098024308
 4,2021-04-30,Charging interest (on debt),67.74144533254497
-4,2021-05-17,Charging interest,792.4843005614464
+4,2021-05-17,Charging interest,704.4
 4,2021-05-17,Overdue payment,3552.1
 4,2021-05-17,Charging interest (on debt),76.7733344923958
-4,2021-05-31,Charging interest,473.63780680561877
+4,2021-05-31,Charging interest,558.43
 4,2021-05-31,Charging interest (on debt),84.88817768845226
 4,2021-06-15,Charging interest,598.3156662157808
 4,2021-06-15,Overdue payment,3559.04
@@ -271,17 +271,17 @@ credit_id,c_date,c_oper_name,c_amount
 4,2021-08-19,Debt repayment,1672.27
 4,2021-09-03,Charging interest (on debt),816.1935385842768
 4,2021-09-15,Charging interest (on debt),542.6718955734119
-4,2021-09-30,Charging interest (on debt),711.7827367205888
+4,2021-09-30,Charging interest (on debt),711.7827367205887
 4,2021-10-15,Charging interest (on debt),752.9623050058235
 4,2021-10-31,Charging interest (on debt),805.8915253144768
 4,2021-11-15,Charging interest (on debt),786.4022380563503
 4,2021-11-30,Charging interest (on debt),794.131887273414
-4,2021-12-15,Charging interest (on debt),824.9923125065069
+4,2021-12-15,Charging interest (on debt),824.9923125065068
 4,2021-12-31,Charging interest (on debt),893.3820062530626
 4,2022-01-17,Charging interest (on debt),987.4810484494702
 4,2022-01-31,Charging interest (on debt),813.2230006259417
-4,2022-02-15,Charging interest (on debt),904.0521236695079
-4,2022-02-28,Charging interest (on debt),790.6038676556011
+4,2022-02-15,Charging interest (on debt),904.0521236695081
+4,2022-02-28,Charging interest (on debt),790.6038676556012
 4,2022-03-15,Charging interest (on debt),944.9720186049163
-4,2022-03-31,Charging interest (on debt),1016.7020689856311
+4,2022-03-31,Charging interest (on debt),1016.7020689856313
 4,2022-04-15,Charging interest (on debt),991.3423267146733
